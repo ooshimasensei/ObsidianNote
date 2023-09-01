@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "806f53924686b531",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d6f5d044ac5372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2410b1eeb99ab6a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a32f0b4d4d68fb4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1aec826938703cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1c38ac0b57768f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0a8c1ea50d9b931",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bad6876a6faebb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7dc2d48542b221ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "235814def2c5e760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e99d8664db1e026",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6260cffa6182a669",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2887d28548f21bec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "910f52334b39dbba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2410b1eeb99ab6a8",
+  "lastOpenFiles": [
+    "李宏毅DeepLearning/深度学习基础.md",
+    "李沐DeepLearning",
+    "李宏毅DeepLearning"
+  ]
+}
