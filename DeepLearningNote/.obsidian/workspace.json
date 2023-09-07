@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "4489aaf6fe36200a",
+    "type": "split",
+    "children": [
+      {
+        "id": "57bdecb5462d792c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8467f456d8f09de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "李宏毅DeepLearning/深度学习笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5de665d98411280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "李沐DeepLearning/数值稳定性&模型初始化和激活函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ac9a4d188506015",
+    "type": "split",
+    "children": [
+      {
+        "id": "296bda6c0ebdc99d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ee202130928f77d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5048cb1ffe4d0333",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc2528fdeff848ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ef9eaf426ae5934",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9df257600801a53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25dbeb09e99e6264",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "李沐DeepLearning/数值稳定性&模型初始化和激活函数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2efb05ffb46b022",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "李沐DeepLearning/数值稳定性&模型初始化和激活函数.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55dd21357d4b056b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3e5f12be71f55a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "李沐DeepLearning/数值稳定性&模型初始化和激活函数.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d5de665d98411280",
+  "lastOpenFiles": [
+    "Pasted image 20230904091102.png",
+    "Pasted image 20230904094402.png",
+    "Pasted image 20230904092048.png",
+    "李沐DeepLearning/数值稳定性&模型初始化和激活函数.md",
+    "李沐DeepLearning/丢弃法.md",
+    "Pasted image 20230906193605.png",
+    "Pasted image 20230906193312.png",
+    "Pasted image 20230906193225.png",
+    "Pasted image 20230906193019.png",
+    "李沐DeepLearning/权重衰退.md",
+    "2023-09-06.md",
+    "Pasted image 20230906160738.png",
+    "Pasted image 20230906160258.png",
+    "Pasted image 20230906155623.png",
+    "Pasted image 20230906155150.png",
+    "李沐DeepLearning/模型选择.md",
+    "李沐DeepLearning/多层感知机.md",
+    "李宏毅DeepLearning/深度学习笔记.md",
+    "李沐DeepLearning/线性回归.ipynb"
+  ]
+}
