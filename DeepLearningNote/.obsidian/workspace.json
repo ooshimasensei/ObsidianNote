@@ -11,9 +11,11 @@
             "id": "20a6ff4033318a9c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "李沐DeepLearning/images/Pasted image 20231117165628.png"
+                "file": "李宏毅DeepLearning/Train不起来的一些可能原因.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 222.5
   },
   "right": {
     "id": "2ef9eaf426ae5934",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "李沐DeepLearning/images/Pasted image 20231117165628.png",
+                "file": "李宏毅DeepLearning/Train不起来的一些可能原因.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "李沐DeepLearning/images/Pasted image 20231117165628.png",
+                "file": "李宏毅DeepLearning/Train不起来的一些可能原因.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "李沐DeepLearning/images/Pasted image 20231117165628.png"
+                "file": "李宏毅DeepLearning/Train不起来的一些可能原因.md"
               }
             }
           },
@@ -154,53 +156,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7ee202130928f77d",
+  "active": "20a6ff4033318a9c",
   "lastOpenFiles": [
+    "李宏毅DeepLearning/images/Pasted image 20231201160721.png",
+    "李宏毅DeepLearning/images/Pasted image 20231201151139.png",
+    "李宏毅DeepLearning/images/Pasted image 20231201150702.png",
+    "李宏毅DeepLearning/images/Pasted image 20231201145332.png",
+    "李宏毅DeepLearning/images/Pasted image 20231201141837.png",
+    "李宏毅DeepLearning/images/Pasted image 20231201112655.png",
+    "统计学习/正则化.md",
+    "李宏毅DeepLearning/Train不起来的一些可能原因.md",
+    "四区兄弟/README.md",
+    "四区兄弟/（一区）Automatic soiling and partial shading assessment on PV modules through RGB images analysis.md",
+    "四区兄弟/DeepSolarEyes.md",
+    "统计学习/基本分类.md",
+    "统计学习/统计学习的三要素（model,cost function,optimizer）.md",
+    "统计学习/泛化能力.md",
+    "统计学习/生成模型和判别模型.md",
+    "Coding Tricks/张量.md",
+    "统计学习/逻辑回归.md",
+    "date/2023.11.md",
+    "李沐DeepLearning/填充和步幅.md",
+    "李沐DeepLearning/images/Pasted image 20231129095030.png",
+    "李沐DeepLearning/ResNet.md",
+    "李沐DeepLearning/转置卷积.md",
+    "李沐DeepLearning/Transformer.md",
+    "李沐DeepLearning/样式迁移.md",
+    "李沐DeepLearning/全连接神经网络（FCN）.md",
+    "四区兄弟/A novel detection method for hot spots of photovoltaic (PV) panels using improved anchors and prediction heads of YOLOv5 network.md",
+    "李沐DeepLearning/images/Pasted image 20231117165628.png",
     "李沐DeepLearning/images/Pasted image 20231116135006.png",
     "李沐DeepLearning/images/Pasted image 20231114163009.png",
     "李沐DeepLearning/images/Pasted image 20231114160302.png",
-    "李沐DeepLearning/images/Pasted image 20231030184322.png",
-    "李沐DeepLearning/images/Pasted image 20231030152953.png",
-    "李沐DeepLearning/images/Pasted image 20230914160516.png",
-    "李沐DeepLearning/images/Pasted image 20230907091841.png",
     "李沐DeepLearning/门控循环单元GRU.md",
     "李沐DeepLearning/循环神经网络.md",
-    "李沐DeepLearning/images/Pasted image 20230914152226.png",
-    "李沐DeepLearning/images/Pasted image 20230914144600.png",
     "李沐DeepLearning/多输入输出通道.md",
-    "李沐DeepLearning/images/Pasted image 20230913205527.png",
-    "李沐DeepLearning/images/Pasted image 20230913171454.png",
     "李宏毅DeepLearning/RNN.md",
-    "四区兄弟/Automatic soiling and partial shading assessment on PV modules through RGB images analysis.md",
-    "四区兄弟/A novel detection method for hot spots of photovoltaic (PV) panels using improved anchors and prediction heads of YOLOv5 network.md",
     "四区兄弟/Foreign Object Shading Detection in Photovoltaic Modules Based on Transfer Learning  基于迁移学习的光伏组件异物遮挡检测.md",
     "四区兄弟/images",
     "三区兄弟",
-    "date/2023.11.md",
     "四区兄弟",
     "date/images",
-    "Coding Tricks/张量.md",
     "李宏毅DeepLearning/Transformer.md",
     "Coding Tricks",
-    "李宏毅DeepLearning/反向传播.md",
-    "李宏毅DeepLearning/自注意力.md",
-    "李沐DeepLearning/序列模型.md",
-    "李沐DeepLearning/注意力机制.md",
-    "李沐DeepLearning/样式迁移.md",
-    "李沐DeepLearning/全连接神经网络（FCN）.md",
-    "李沐DeepLearning/填充和步幅.md",
-    "李沐DeepLearning/转置卷积.md",
-    "李沐DeepLearning/Transformer.md",
-    "李沐DeepLearning/注意力分数.md",
     "date",
     "公众号/images",
-    "未命名.md",
     "统计学习/images",
     "YOLO/images",
-    "images",
-    "李沐DeepLearning/多层感知机.md",
-    "李沐DeepLearning/丢弃法.md",
-    "多元统计/PCA.md",
-    "公众号/Progressive End-to-End Object Detection in Crowded Scenes(拥挤场景中的渐进式端到端对象检测).md"
+    "images"
   ]
 }
